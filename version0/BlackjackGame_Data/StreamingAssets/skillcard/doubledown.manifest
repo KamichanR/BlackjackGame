@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1004406410
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f53f97c7672488b8e4252c79e75e2c79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f596dc3e88225c4fdbede3db91308caf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f53f97c7672488b8e4252c79e75e2c79
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/SkillCard/DoubleDown.svg
+Dependencies: []

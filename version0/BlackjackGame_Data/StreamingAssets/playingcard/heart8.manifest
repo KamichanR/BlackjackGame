@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 256826893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f92dc11d5ee83b0a136def0ac64fb1f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f596dc3e88225c4fdbede3db91308caf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f92dc11d5ee83b0a136def0ac64fb1f4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/PlayingCard/Heart8.svg
+Dependencies: []

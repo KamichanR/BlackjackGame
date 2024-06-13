@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 143890940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37b7011050989f22e086cfb829d1b67c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f596dc3e88225c4fdbede3db91308caf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 37b7011050989f22e086cfb829d1b67c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/PlayingCard/Club2.svg
+Dependencies: []

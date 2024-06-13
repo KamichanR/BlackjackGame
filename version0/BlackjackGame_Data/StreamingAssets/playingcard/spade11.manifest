@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1030541485
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d9edf072a71f7b10379af5b971b2ce5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f596dc3e88225c4fdbede3db91308caf
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2d9edf072a71f7b10379af5b971b2ce5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/PlayingCard/Spade11.svg
+Dependencies: []

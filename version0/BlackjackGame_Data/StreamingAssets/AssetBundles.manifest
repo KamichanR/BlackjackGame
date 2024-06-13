@@ -1,0 +1,187 @@
+ManifestFileVersion: 0
+CRC: 3735995364
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: playingcard/back
+      Dependencies: {}
+    Info_1:
+      Name: playingcard/club1
+      Dependencies: {}
+    Info_2:
+      Name: playingcard/club2
+      Dependencies: {}
+    Info_3:
+      Name: playingcard/club3
+      Dependencies: {}
+    Info_4:
+      Name: playingcard/club4
+      Dependencies: {}
+    Info_5:
+      Name: playingcard/club5
+      Dependencies: {}
+    Info_6:
+      Name: playingcard/club6
+      Dependencies: {}
+    Info_7:
+      Name: playingcard/club7
+      Dependencies: {}
+    Info_8:
+      Name: playingcard/club8
+      Dependencies: {}
+    Info_9:
+      Name: playingcard/club9
+      Dependencies: {}
+    Info_10:
+      Name: playingcard/club10
+      Dependencies: {}
+    Info_11:
+      Name: playingcard/club11
+      Dependencies: {}
+    Info_12:
+      Name: playingcard/club12
+      Dependencies: {}
+    Info_13:
+      Name: playingcard/club13
+      Dependencies: {}
+    Info_14:
+      Name: playingcard/diamond1
+      Dependencies: {}
+    Info_15:
+      Name: playingcard/diamond2
+      Dependencies: {}
+    Info_16:
+      Name: playingcard/diamond3
+      Dependencies: {}
+    Info_17:
+      Name: playingcard/diamond4
+      Dependencies: {}
+    Info_18:
+      Name: playingcard/diamond5
+      Dependencies: {}
+    Info_19:
+      Name: playingcard/diamond6
+      Dependencies: {}
+    Info_20:
+      Name: playingcard/diamond7
+      Dependencies: {}
+    Info_21:
+      Name: playingcard/diamond8
+      Dependencies: {}
+    Info_22:
+      Name: playingcard/diamond9
+      Dependencies: {}
+    Info_23:
+      Name: playingcard/diamond10
+      Dependencies: {}
+    Info_24:
+      Name: playingcard/diamond11
+      Dependencies: {}
+    Info_25:
+      Name: playingcard/diamond12
+      Dependencies: {}
+    Info_26:
+      Name: playingcard/diamond13
+      Dependencies: {}
+    Info_27:
+      Name: playingcard/heart1
+      Dependencies: {}
+    Info_28:
+      Name: playingcard/heart2
+      Dependencies: {}
+    Info_29:
+      Name: playingcard/heart3
+      Dependencies: {}
+    Info_30:
+      Name: playingcard/heart4
+      Dependencies: {}
+    Info_31:
+      Name: playingcard/heart5
+      Dependencies: {}
+    Info_32:
+      Name: playingcard/heart6
+      Dependencies: {}
+    Info_33:
+      Name: playingcard/heart7
+      Dependencies: {}
+    Info_34:
+      Name: playingcard/heart8
+      Dependencies: {}
+    Info_35:
+      Name: playingcard/heart9
+      Dependencies: {}
+    Info_36:
+      Name: playingcard/heart10
+      Dependencies: {}
+    Info_37:
+      Name: playingcard/heart11
+      Dependencies: {}
+    Info_38:
+      Name: playingcard/heart12
+      Dependencies: {}
+    Info_39:
+      Name: playingcard/heart13
+      Dependencies: {}
+    Info_40:
+      Name: playingcard/spade1
+      Dependencies: {}
+    Info_41:
+      Name: playingcard/spade2
+      Dependencies: {}
+    Info_42:
+      Name: playingcard/spade3
+      Dependencies: {}
+    Info_43:
+      Name: playingcard/spade4
+      Dependencies: {}
+    Info_44:
+      Name: playingcard/spade5
+      Dependencies: {}
+    Info_45:
+      Name: playingcard/spade6
+      Dependencies: {}
+    Info_46:
+      Name: playingcard/spade7
+      Dependencies: {}
+    Info_47:
+      Name: playingcard/spade8
+      Dependencies: {}
+    Info_48:
+      Name: playingcard/spade9
+      Dependencies: {}
+    Info_49:
+      Name: playingcard/spade10
+      Dependencies: {}
+    Info_50:
+      Name: playingcard/spade11
+      Dependencies: {}
+    Info_51:
+      Name: playingcard/spade12
+      Dependencies: {}
+    Info_52:
+      Name: playingcard/spade13
+      Dependencies: {}
+    Info_53:
+      Name: skillcard/burn
+      Dependencies: {}
+    Info_54:
+      Name: skillcard/doubledown
+      Dependencies: {}
+    Info_55:
+      Name: skillcard/lookholecard
+      Dependencies: {}
+    Info_56:
+      Name: skillcard/quintupledown
+      Dependencies: {}
+    Info_57:
+      Name: skillcard/split
+      Dependencies: {}
+    Info_58:
+      Name: skillcard/card6to9
+      Dependencies: {}
+    Info_59:
+      Name: skillcard/card2to5
+      Dependencies: {}
+    Info_60:
+      Name: skillcard/card10toa
+      Dependencies: {}
