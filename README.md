@@ -7,7 +7,8 @@
 
 ## 紹介動画
 
-[!["Blackjack 紹介動画"]]("https://drive.google.com/file/d/1h-4a2U2ICzvWo0oRU4cReggcMtQY47aP/view?usp=sharing")
+以下の画像をクリックすると、動画再生ページに遷移します。
+[!["Blackjack 紹介動画"](https://github.com/user-attachments/assets/3b29dead-1427-4da0-b63d-18167c3a5512)](https://drive.google.com/file/d/1h-4a2U2ICzvWo0oRU4cReggcMtQY47aP/view?usp=sharing)
 
 ## プレイヤーの行動
 
