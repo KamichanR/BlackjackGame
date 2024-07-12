@@ -5,6 +5,10 @@
 一般的なブラックジャックに、独自要素を追加したゲームです。
 手札の合計を21に近づけてディーラーに勝利することを目指します。
 
+## 紹介動画
+
+[!["Blackjack 紹介動画"]]("https://drive.google.com/file/d/1h-4a2U2ICzvWo0oRU4cReggcMtQY47aP/view?usp=sharing")
+
 ## プレイヤーの行動
 
 ### HIT
