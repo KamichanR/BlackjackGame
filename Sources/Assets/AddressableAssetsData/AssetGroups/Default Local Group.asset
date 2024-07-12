@@ -1,0 +1,470 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: eaa96f5c157531a4db116ac5ad691587
+  m_SerializeEntries:
+  - m_GUID: 07f0066bce6b708479f0d0f9abf90126
+    m_Address: NormalClub01Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 485638c7214b9e045b9ee80efa1dcfae
+    m_Address: GoldSpade11Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efced650c200bc74882c300abdd37da3
+    m_Address: GoldSpade07Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3849a1bcaac581342850d90723a63280
+    m_Address: NormalClub02Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1facb065576143d4f9b3a31b9792a633
+    m_Address: NormalClub03Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dca7debd82d0fd749828110b58641f5a
+    m_Address: NormalClub04Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 239e2bedefc098e4cbdf111f57c86d75
+    m_Address: NormalClub05Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1722511211ac5f4b94faf603292d042
+    m_Address: NormalClub06Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf7081809fac88540b911e146526e7e1
+    m_Address: NormalClub07Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1104a06f0599cfb40b3ccf8e5a6d1361
+    m_Address: NormalClub08Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 948a80a83ad12694a89da0627ffe30e3
+    m_Address: NormalClub09Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e8964321b942544eb2bb7f4e14adeff
+    m_Address: NormalClub10Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3db75936ad6224c43a4f7e7643567697
+    m_Address: NormalClub11Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16c34c4261d0cc240b79ca1ad93dede1
+    m_Address: NormalClub12Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ae20dea282bf114a96ffa6ee2ba0192
+    m_Address: NormalClub13Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c93d40439c0e01a42a1a08e83848a720
+    m_Address: NormalDiamond01Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fae85bac081eb544b998e1fd78f00965
+    m_Address: NormalDiamond02Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5da68fb9792e0174ea41d475c80530ce
+    m_Address: NormalDiamond03Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0a8095ddc74d5a45b1a7ecd1362e894
+    m_Address: NormalDiamond04Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b83f686fa6e4f2242a793784bb874bb6
+    m_Address: NormalDiamond05Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81a81d30f8314bd4b93274ef2a380c53
+    m_Address: NormalDiamond06Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edc4692452902584386dac652bdbb4d7
+    m_Address: NormalDiamond07Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1d0c84e5e6be79449cea4cb55848c86
+    m_Address: NormalDiamond08Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f929bacfda0be24ba137bedd44f0c4e
+    m_Address: NormalDiamond09Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b1d580a182e0154a8351d08c29293fc
+    m_Address: NormalDiamond10Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b72e814622e31aa46a5bc1ea89abe51f
+    m_Address: NormalDiamond11Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c12bc327c773d7a46ac7ac671fbf2558
+    m_Address: NormalDiamond12Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f849f9ac9508e24498f9710aa2937023
+    m_Address: NormalDiamond13Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9741bde728b9e045a4c8d1219df5473
+    m_Address: NormalHeart01Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fc570b7e6a3a9e41a6691858193a131
+    m_Address: NormalHeart02Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e89f28efc40c9142a355642680929f2
+    m_Address: NormalHeart03Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3fd4d4fe4d33d1428a5c20341858176
+    m_Address: NormalHeart04Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd1a920b36d97ed4bb2d131dd5005a98
+    m_Address: NormalHeart05Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cb4c77645080dc41ad0a98bca70b9b8
+    m_Address: NormalHeart06Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2c8cd66641cdeb4bb9c1019bf31e362
+    m_Address: NormalHeart07Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7bc83e57b80ed843a916ed67f6898a7
+    m_Address: NormalHeart08Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2f3eaa973b109c43bc525bae6547a07
+    m_Address: NormalHeart09Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 052b650f2537fc24c86a6b8de418aec0
+    m_Address: NormalHeart10Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1d260b0411c3df4eab8532e70cf2df2
+    m_Address: NormalHeart11Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98c6d4db1fb2554408ee95c2d97f0916
+    m_Address: NormalHeart12Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d2d662ddc1689647a267971d0d6a09e
+    m_Address: NormalHeart13Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16b739bc58a34a34dab34ddb3fcbaa01
+    m_Address: NormalSpade01Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a42acbc8641968244ad5ff942548f480
+    m_Address: NormalSpade02Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 920329604a3054f45a4e4f412b781cc0
+    m_Address: NormalSpade03Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb25bc574efd879428b68a169be0692b
+    m_Address: NormalSpade04Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33a98d354b23b3c4a9c4633a6b9fd705
+    m_Address: NormalSpade05Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4b859710c044234c9afdb463b1b7550
+    m_Address: NormalSpade06Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d993a12b8863df443bb9d8ed726df3fc
+    m_Address: NormalSpade07Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f4c73e3c82ae5443a021304070ab400
+    m_Address: NormalSpade08Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42601cf0efee8324c857f988d3acbc93
+    m_Address: NormalSpade09Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b16fd8e05282a7c489da74074a2fad68
+    m_Address: NormalSpade10Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f76439858c3626a42ae94ee73dadd0e8
+    m_Address: NormalSpade11Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d4735c1b9cb6aa4cb7a55dc15d8da02
+    m_Address: NormalSpade12Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58c93abe1f083664b9c14d8458f2fb45
+    m_Address: NormalSpade13Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b74535881acdfba41808880092c4107d
+    m_Address: GoldSpade01Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    - PlayingCard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eed93a45c2c09e6458f815e1e9d2bd5c
+    m_Address: PlayerHandObjectPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dd79ab5a0d9e9d49a3731418cb3c6f7
+    m_Address: DealerHandObjectPrefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad088e91d3349b14994e5953312a677c
+    m_Address: Assets/Models/SkillCards/Prefabs/BurnCardPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5b97334bc2823f45914d1c964b8f1e0
+    m_Address: Assets/Models/SkillCards/Prefabs/FreeDoubleDownPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2184e39fa85ccb04da3da0f5ac3cd4e9
+    m_Address: Assets/Models/SkillCards/Prefabs/HighCardPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50540578ae0e9e14dbcaa20c8b7815bb
+    m_Address: Assets/Models/SkillCards/Prefabs/LookHoleCardPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b30a2ecc63101c84eb4e589e94581bc5
+    m_Address: Assets/Models/SkillCards/Prefabs/LowCardPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56e2a0978fe7d514b86bc9497455dc82
+    m_Address: Assets/Models/SkillCards/Prefabs/MiddleCardPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0a55d419bbcc2a49b062679308d61d4
+    m_Address: Assets/Models/SkillCards/Prefabs/QuintupleDownPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bee8d4df160c8d146a5425de3590c8b9
+    m_Address: Assets/Models/SkillCards/Prefabs/SplitPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Default
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: daba568020ac06f4ba41dc812b8d04d3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2e8aeabf4011e57448623a62f409b45e, type: 2}
+    - {fileID: 11400000, guid: 8554a0f1122c32a4e92bc065ce7d4129, type: 2}
